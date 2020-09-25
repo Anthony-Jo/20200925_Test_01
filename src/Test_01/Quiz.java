@@ -22,5 +22,4 @@ public class Quiz
 		System.out.println(IQ + ": " + iq_value);
 		System.out.println(LEVEL + ": " + level_value);
 	}
-
 }

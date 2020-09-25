@@ -19,7 +19,6 @@ public class Test_01 {
 		System.out.println("pi = " + pi + ":D");
 		System.out.println("My heigth is " + height + "cm ^_^ ");
 		System.out.println("your name is " + name + " OK?" );
-		/*	git hub test 03	*/
 	}
 
 }
